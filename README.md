@@ -3,6 +3,9 @@
 
 Website sederhana dibuat untuk menggantikan buku tamu manual yang ada di sekolah.
 
+Demo : 
+http://buku-tamu.infinityfreeapp.com/
+
 
 
 
